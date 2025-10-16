@@ -46,5 +46,3 @@ No coding or query knowledge required — just chat with your data!
 
 ---
 
-## 🧱 Project Structure
-
